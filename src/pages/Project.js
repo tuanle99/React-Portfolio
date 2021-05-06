@@ -1,6 +1,6 @@
-import React from "react";
+import React, { Component } from "react";
 
-class Project {
+class Project extends Component {
   render() {
     return <div>Project Page</div>;
   }
