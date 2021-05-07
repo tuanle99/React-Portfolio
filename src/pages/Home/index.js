@@ -7,11 +7,7 @@ import Icon from "../../components/Icon";
 function Home() {
   return (
     <div style={{ height: 800 }}>
-      <Container
-        fluid="true"
-        style={{ padding: 0 }}
-        className="home_backgroundStyle"
-      >
+      <Container fluid="true" className="home_backgroundStyle">
         <h1 className="home_centerText">Tuan Le</h1>
         <div className="home_icon_container">
           <Icon href={"https://www.linkedin.com/in/tuan-le-73712a194/"}>
