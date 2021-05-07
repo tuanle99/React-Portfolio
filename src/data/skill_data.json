@@ -1,32 +1,32 @@
 {
     "skill_array" : [
         {
-            "name" : "Java",
-            "progress" : "75"
+            "type" : "Java",
+            "level" : 75
         },
         {
-            "name" : "React.js",
-            "progress" : "50"
+            "type" : "React.js",
+            "level" : 50
         },
         {
-            "name" : "React Native",
-            "progress" : "25"
+            "type" : "React/Native",
+            "level" : 25
         },
         {
-            "name" : "Python",
-            "progress" : "50"
+            "type" : "Python",
+            "level" : 50
         },
         {
-            "name" : "JS/CSS/HTML",
-            "progress" : "90"
+            "type" : "JS/CSS/HTML",
+            "level" : 90
         },
         {
-            "name" : "jQuery",
-            "progress" : "75"
+            "type" : "jQuery",
+            "level" : 75
         },
         {
-            "name" : "TypeScript",
-            "progress" : "50"
+            "type" : "TypeScript",
+            "level" : 50
         }
     ]
 }

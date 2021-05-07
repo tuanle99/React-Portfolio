@@ -4,6 +4,7 @@ import "./style.css";
 import ProfileImage from "../../images/ProfileImage.jpg";
 
 import Profile from "../Profile";
+import Skills from "../Skills";
 
 function About() {
   return (
@@ -29,8 +30,15 @@ function About() {
           </div>
         </div>
       </div>
-      <div>
-        <Profile />
+      <div className="row">
+        <div className="col-2"></div>
+        <div className="col-4">
+          <Profile />
+        </div>
+        <div className="col-4">
+          <Skills />
+        </div>
+        <div className="col-2"></div>
       </div>
     </Container>
   );
