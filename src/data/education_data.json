@@ -1,0 +1,28 @@
+{
+    "education_list": [
+        {
+            "title": "Georgia State University",
+            "date": "08/2017 - 12/2019",
+            "description": [
+                "Bachelor of Computer Science", 
+                "President's List: Fall 2017, Spring 2018, Fall 2018", 
+                "Dean’s List: Spring 2019, Fall 2019"
+            ]
+        },
+        {
+            "title": "Georgia Institute of Technology",
+            "date": "01/2019 - 12/2022",
+            "description": [
+                "Bachelor of Computer Science", 
+                "Part of the Research Team: VIP VoterTech"
+            ]
+        },
+        {
+            "title": "Georgia Institute of Technology Bootcamp",
+            "date": "12/2020 - 05/2021",
+            "description": [
+                "Certification in FullStack Development"
+            ]
+        }
+    ]
+}

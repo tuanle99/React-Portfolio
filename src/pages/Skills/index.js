@@ -18,8 +18,8 @@ function Skills() {
     },
   };
   return (
-    <Container style={{ textAlign: "left" }}>
-      <h1>SKILLS</h1>
+    <Container fluid="true" style={{ textAlign: "left" }}>
+      <h3>SKILLS</h3>
       <p style={{ color: "#c5c6c7" }}>
         I'm an independent and a teamplayer that's strong in research and coding
         and also communication. My area of expertise are front-end and back-end

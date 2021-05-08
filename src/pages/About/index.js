@@ -9,10 +9,7 @@ import Skills from "../Skills";
 function About() {
   return (
     <Container fluid="true" className="about_background">
-      <div
-        className="row section-intro"
-        style={{ marginLeft: "auto", marginRight: "auto" }}
-      >
+      <div className="row section-intro">
         <div className="col-12">
           <h3 className="about_me">About Me</h3>
           <div className="content-intro">
@@ -30,15 +27,13 @@ function About() {
           </div>
         </div>
       </div>
-      <div className="row">
-        <div className="col-2"></div>
-        <div className="col-4">
+      <div className="row justify-content-md-center" style={{ paddingTop: 50 }}>
+        <div className="col-lg-4 col-md-6 col-sm-12 ">
           <Profile />
         </div>
-        <div className="col-4">
+        <div className="col-lg-4 col-md-6 col-sm-12 skill_padding">
           <Skills />
         </div>
-        <div className="col-2"></div>
       </div>
     </Container>
   );
