@@ -13,7 +13,7 @@ function Home() {
           <Icon href={"https://www.linkedin.com/in/tuan-le-73712a194/"}>
             <FaLinkedin size={40} />
           </Icon>
-          <Icon href={"tuanleprofessional@gmail.com"}>
+          <Icon href={"mailto:tuanleprofessional@gmail.com"}>
             <FaEnvelope size={40} />
           </Icon>
           <Icon href={"https://join.skype.com/invite/BKDerDhnP3IE"}>
